@@ -1,21 +1,21 @@
 # Seção 1
 
-Biografia e Escolha do Curso
+## Biografia e Escolha do Curso
 
-	Olá, meu nome é Enrico Tomazo Resende da Cunha e sou estudante do curso de Ciência da Computação no CEUB. Cursei 2 semestres de engenharia de controle e automação na Universidade Federal de Uberlândia (UFU), onde fiz matérias de programação, matemática e eletrônica, e me interessei pela área de programação e TI. Assim, resolvi trocar de curso e me mudar de volta para Brasília, e decidi fazer ciência da computação. Além disso, estudei sobre redes e programação por conta própria, tenho inglês fluente, e fiz um projeto para Arduino (disponível em [https\://github.com/Enrico-Resende/sistema-alarme-senha](https://github.com/Enrico-Resende/sistema-alarme-senha)). Atualmente, não atuo no mercado de trabalho, mas assim que possível desejo estagiar. Fora do meio de TI, sou músico a minha vida toda, toco guitarra há mais de 10 anos.
+Olá, meu nome é Enrico Tomazo Resende da Cunha e sou estudante do curso de Ciência da Computação no CEUB. Cursei 2 semestres de engenharia de controle e automação na Universidade Federal de Uberlândia (UFU), onde fiz matérias de programação, matemática e eletrônica, e me interessei pela área de programação e TI. Assim, resolvi trocar de curso e me mudar de volta para Brasília, e decidi fazer ciência da computação. Além disso, estudei sobre redes e programação por conta própria, tenho inglês fluente, e fiz um projeto para Arduino (disponível em [https\://github.com/Enrico-Resende/sistema-alarme-senha](https://github.com/Enrico-Resende/sistema-alarme-senha)). Atualmente, não atuo no mercado de trabalho, mas assim que possível desejo estagiar. Fora do meio de TI, sou músico a minha vida toda, toco guitarra há mais de 10 anos.
 
 ![][image1]  
 E-mail para contato: [enricoresende@gmail.com](mailto:enricoresende@gmail.com)
 
-Seção 2
+# Seção 2
 
-Mapeamento
+## Mapeamento
 
-	A área de segurança desperta muito meu interesse. Inicialmente descobri a área por meio de hackathons, mesmo sem entender muito sobre o que está acontecendo, foi algo que me chamou atenção e gostaria de aprender mais sobre. Além disso, achei bastante gratificante fazer projetos de programação, desde programas simples que facilitam minha vida até projetos de Arduino maiores como o mencionado anteriormente.
+A área de segurança desperta muito meu interesse. Inicialmente descobri a área por meio de hackathons, mesmo sem entender muito sobre o que está acontecendo, foi algo que me chamou atenção e gostaria de aprender mais sobre. Além disso, achei bastante gratificante fazer projetos de programação, desde programas simples que facilitam minha vida até projetos de Arduino maiores como o mencionado anteriormente.
 
-Propósito
+## Propósito
 
-	O StudyHub, projeto que visa organização por matérias utilizando o GitHub, vai contribuir na minha formação acadêmica sendo uma ferramenta de uso fácil para os propósitos da faculdade, ajudando o estudante a manter a ordem nos estudos. Além disso, a ferramenta constrói um portfólio para o aluno, solidificando um currículo sólido para o mercado de trabalho. Começar a construir um GitHub com projetos cedo é de extrema importância tendo em vista a competitividade cada vez maior do mercado.
+O StudyHub, projeto que visa organização por matérias utilizando o GitHub, vai contribuir na minha formação acadêmica sendo uma ferramenta de uso fácil para os propósitos da faculdade, ajudando o estudante a manter a ordem nos estudos. Além disso, a ferramenta constrói um portfólio para o aluno, solidificando um currículo sólido para o mercado de trabalho. Começar a construir um GitHub com projetos cedo é de extrema importância tendo em vista a competitividade cada vez maior do mercado.
 
 | Semestre/módulo | Nome da Disciplina | Tipo de Material | Justificativa |
 | :---: | :---: | :---: | :---: |
